@@ -1,0 +1,10 @@
+C:\Users\marek\source\repos\Advent_of_code_day_2\Advent_of_code_day_2\bin\Debug\netcoreapp2.1\Advent_of_code_day_2.deps.json
+C:\Users\marek\source\repos\Advent_of_code_day_2\Advent_of_code_day_2\bin\Debug\netcoreapp2.1\Advent_of_code_day_2.runtimeconfig.json
+C:\Users\marek\source\repos\Advent_of_code_day_2\Advent_of_code_day_2\bin\Debug\netcoreapp2.1\Advent_of_code_day_2.runtimeconfig.dev.json
+C:\Users\marek\source\repos\Advent_of_code_day_2\Advent_of_code_day_2\bin\Debug\netcoreapp2.1\Advent_of_code_day_2.dll
+C:\Users\marek\source\repos\Advent_of_code_day_2\Advent_of_code_day_2\bin\Debug\netcoreapp2.1\Advent_of_code_day_2.pdb
+C:\Users\marek\source\repos\Advent_of_code_day_2\Advent_of_code_day_2\obj\Debug\netcoreapp2.1\Advent_of_code_day_2.csproj.CoreCompileInputs.cache
+C:\Users\marek\source\repos\Advent_of_code_day_2\Advent_of_code_day_2\obj\Debug\netcoreapp2.1\Advent_of_code_day_2.AssemblyInfoInputs.cache
+C:\Users\marek\source\repos\Advent_of_code_day_2\Advent_of_code_day_2\obj\Debug\netcoreapp2.1\Advent_of_code_day_2.AssemblyInfo.cs
+C:\Users\marek\source\repos\Advent_of_code_day_2\Advent_of_code_day_2\obj\Debug\netcoreapp2.1\Advent_of_code_day_2.dll
+C:\Users\marek\source\repos\Advent_of_code_day_2\Advent_of_code_day_2\obj\Debug\netcoreapp2.1\Advent_of_code_day_2.pdb
